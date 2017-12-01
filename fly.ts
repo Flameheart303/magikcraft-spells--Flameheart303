@@ -1,0 +1,2 @@
+function fly() {
+    magik.volare();
